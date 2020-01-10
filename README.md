@@ -1,4 +1,4 @@
-# git-workflow-notes
+# git-cheat-sheet
 
 ## Install and Configure
 - Install using Homebrew
