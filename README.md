@@ -1,4 +1,4 @@
-# git-cheat-sheet
+# git-notes
 
 ## Install and Configure
 - Install using Homebrew
